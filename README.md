@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Halo%2C+Saya+Akhmad+Saekhul!;Siswa+RPL+yang+Suka+Coding+dan+AI;Web+Developer+dan+Creative+Thinker+💙" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Halo%2C+Saya+Akhmad+Saekhul!;Siswa+RPL+yang+Suka+Coding+dan+AI;Web+Developer+dan+Creative+Thinker+💙+bagi loker raawwww" alt="Typing Animation" />
 </div>
 
 ---
