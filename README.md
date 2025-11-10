@@ -18,10 +18,10 @@
 
 ### 🌐 Media Sosial  
 <p align="center">
-  <a href="https://t.me/" target="_blank"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/@saekhulhosting" target="_blank"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/akhmad_saekhul" target="_blank"><img src="https://img.shields.io/badge/Instagram-1E88E5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@saekhulsjh" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D47A1?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-1E88E5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@saekhulmods1572" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D47A1?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://github.com/saekhul4187" target="_blank"><img src="https://img.shields.io/badge/GitHub-1565C0?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
